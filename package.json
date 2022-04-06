@@ -1,0 +1,17 @@
+{
+  "name": "cards-app",
+  "version": "1.0.0",
+  "description": "a cli for drawing a card from a deck",
+  "main": "cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ranjitha T",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "superagent": "^7.1.1",
+    "install": "^0.13.0",
+    "yargs": "^17.3.1"
+  }
+}
